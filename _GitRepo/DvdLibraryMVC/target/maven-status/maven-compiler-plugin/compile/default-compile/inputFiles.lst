@@ -1,0 +1,10 @@
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/controller/StatsController.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/validation/ValidationError.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/controller/SearchController.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/validation/RestValidationHandle.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/validation/ValidationErrorContainer.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/controller/HomeController.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/controller/HomeControllerNoAjax.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/model/DVD.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/dao/DvdLibraryDao.java
+/home/apprentice/Documents/_Repo/brian-brossmann-individual-work/7-18/DvdLibraryMVC/src/main/java/com/sg/dvdlibrarymvc/dao/SearchTerm.java
