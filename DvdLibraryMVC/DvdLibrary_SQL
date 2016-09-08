@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS `dvds` (
+ `dvd_id` int(11) NOT NULL AUTO_INCREMENT,
+ `title` varchar(50) NOT NULL,
+ `release_date` varchar(4) NOT NULL,
+ `mpaa_rating` varchar(50) NOT NULL,
+ `director_name` varchar(50) DEFAULT NULL,
+ `studio` varchar(50) NOT NULL,
+ `user_rating` varchar(2) NOT NULL,
+ PRIMARY KEY (`dvd_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=23 ;
+
