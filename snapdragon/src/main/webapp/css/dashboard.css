@@ -1,0 +1,22 @@
+/* ---------- GLOBAL STYLES ----------*/
+
+* {
+    font-family: 'Open Sans';
+}
+
+.navbar-brand, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather';
+}
+
+/* ---------- NAVBAR STYLES ----------*/
+#navbar {
+    background-color: #03807d;
+}
+
+#navbar ul li a {
+    color: #eee;
+}
+
+.hvr-underline-reveal:before {
+    background: #eee;
+}

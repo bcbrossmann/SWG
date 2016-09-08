@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle fill="#d1ae76" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="316.444437" cy="238.222235" r="218.502838" id="svg_9" stroke="#a64944"/>
+  <path fill="#94685f" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m204,258.74158c6.16901,46.81273 29.33803,93.62547 35.50704,140.4382c57.1878,0.27341 65.37559,-0.45319 122.56339,-0.17978c10.30986,-42.66667 23.61972,-90.33333 38.92958,-139c-78.33334,-0.08614 -118.66667,-1.17228 -197.00001,-1.25842z" id="svg_2" stroke="#414551"/>
+  <path fill="#ffffff" stroke="#9b9b9b" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m207,264c-9,-2 -29,-45 -11,-62c18,-17 30,-14 43,-31c13,-17 27,-30 55,-33c28,-3 44,6 58,9c14,3 23,33 37,42c14,9 31,10 37,30c6,20 -22,44 -22,44c0,0 -188,3 -197,1z" id="svg_3"/>
+  <path fill="#414551" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m202.99999,260.74957c6.32559,18.15885 9.08265,36.31771 15.40824,54.47655c58.63927,0.10606 106.03487,-0.17579 164.67414,-0.06973c10.57153,-16.55058 6.2192,-35.04067 21.91764,-53.91867c-80.3215,-0.03341 -121.67852,-0.45473 -202.00002,-0.48815z" id="svg_7" stroke="#414551"/>
+  <path fill="#bf0000" stroke="#bf0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m338,119c0,0 25,-49 41,-47c16,2 41,-10 9,-5c-32,5 -50,52 -50,52z" id="svg_8"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="325.499998" cy="136.500001" r="31.727829" id="svg_4" stroke="#bf0000"/>
+ </g>
+</svg>

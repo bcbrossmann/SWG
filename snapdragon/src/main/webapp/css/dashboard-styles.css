@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 9, 2016, 8:26:19 PM
+    Author     : apprentice
+*/
+@import 'https://fonts.googleapis.com/css?family=Merriweather:900|Open+Sans';
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #263432;
+    background-color: #FFFFF5;
+    font-size: 1.55em;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar {
+    background: #04817C;
+    font-weight: bold;
+    border-bottom: solid 2px #04817C;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+    color: #FFFFF5;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #263432;
+}
+
+.sidebar {
+    background: #00BFAF;
+    font-weight: bold;
+}
+
+.nav > li > a, .nav > li > li > a {
+    color: #FFFFF5;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+    background-color: #04817C;
+}
+
+.sublist > li > a {
+    color: #FFFFF5;
+}
+
+.sublist > .active {
+    font-style: italic;
+}
+
+.sublist > .active > a {
+    color: #04817C;
+}
+
+.sublist > .active > a:hover {
+    color: #04817C;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: #04817C;
+}
+
+.page-header {
+    border-bottom: 3px solid rgb(255, 116, 0);
+    padding-top: 10px;
+}
+
+.uploadcare-widget-button-open {
+    background: rgb(255, 116, 0);
+}
+
+.uploadcare-widget-button-open:hover {
+    background: #04817C;
+}
+
+.btn-submit {
+    background: #3AB834;
+}
+
+.btn-preview {
+    background: #00BFAF;
+}
