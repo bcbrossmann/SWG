@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `addresses` (
+ `address_id` int(11) NOT NULL AUTO_INCREMENT,
+ `residentLastName` varchar(50) NOT NULL,
+ `streetAddress` varchar(50) NOT NULL,
+ `cityName` varchar(50) NOT NULL,
+ `state` varchar(10) DEFAULT NULL,
+ `zipCode` varchar(50) NOT NULL,
+ PRIMARY KEY (`address_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=23;
